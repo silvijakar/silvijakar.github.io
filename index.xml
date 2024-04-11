@@ -5,21 +5,42 @@
     
     
     
-    <link>https://silvijakar.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Mano puslapis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Apr 2024 12:35:42 +0300</lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2024 12:57:27 +0300</lastBuildDate>
     
-	<atom:link href="https://silvijakar.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Naujas</title>
+      <link>http://localhost:1313/posts/naujas/</link>
+      <pubDate>Thu, 11 Apr 2024 12:57:27 +0300</pubDate>
+      
+      <guid>http://localhost:1313/posts/naujas/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+#include &amp;lt;iostream&amp;gt; using namespace std; int main() { int a, b; a = 7; b = 2; // printing the sum of a and b cout &amp;lt;&amp;lt; &amp;#34;a + b = &amp;#34; &amp;lt;&amp;lt; (a + b) &amp;lt;&amp;lt; endl; // printing the difference of a and b cout &amp;lt;&amp;lt; &amp;#34;a - b = &amp;#34; &amp;lt;&amp;lt; (a - b) &amp;lt;&amp;lt; endl; // printing the product of a and b cout &amp;lt;&amp;lt; &amp;#34;a * b = &amp;#34; &amp;lt;&amp;lt; (a * b) &amp;lt;&amp;lt; endl; // printing the division of a by b cout &amp;lt;&amp;lt; &amp;#34;a / b = &amp;#34; &amp;lt;&amp;lt; (a / b) &amp;lt;&amp;lt; endl; // printing the modulo of a by b cout &amp;lt;&amp;lt; &amp;#34;a % b = &amp;#34; &amp;lt;&amp;lt; (a % b) &amp;lt;&amp;lt; endl; return 0; } 
+          
+        
+        </description>
+    </item>
+    
+    <item>
       <title>Turinys</title>
-      <link>https://silvijakar.github.io/posts/pradzia/</link>
+      <link>http://localhost:1313/posts/pradzia/</link>
       <pubDate>Thu, 11 Apr 2024 12:35:42 +0300</pubDate>
       
-      <guid>https://silvijakar.github.io/posts/pradzia/</guid>
+      <guid>http://localhost:1313/posts/pradzia/</guid>
       <description>
         
           
